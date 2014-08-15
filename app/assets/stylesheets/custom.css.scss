@@ -30,12 +30,17 @@ textarea {
   h1 {
     margin-bottom: 10px;
   }
+}
 
 .nav > li {
   display: inline-block;
+  font-family: Verdana;
+  a {
+  color: $grayLight;
   }
-
 }
+
+
 
 /* typography */
 
